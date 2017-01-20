@@ -1,0 +1,25 @@
+{
+  "name": "primo-explore-resource-icons",
+  "version": "1.1.0",
+  "description": "adds custom resource icons from the Noun Project to primo search results.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alliance-PCJWG/primo-explore-resource-icons.git"
+  },
+  "keywords": [
+    "primo-explore",
+    "primo",
+    "ex",
+    "libris"
+  ],
+  "author": "Nick Budak, Paul Ojennus",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/Alliance-PCJWG/primo-explore-resource-icons/issues"
+  },
+  "homepage": "https://github.com/Alliance-PCJWG/primo-explore-resource-icons#readme"
+}
