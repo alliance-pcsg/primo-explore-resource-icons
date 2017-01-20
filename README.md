@@ -28,7 +28,9 @@ one way to do this is by adding the below code to your `home_en_US.html`:
 <a href="https://github.com/Alliance-PCJWG/primo-explore-resource-icons/blob/master/html/iconcredits.md" title="Icon Credits" target="_blank">Icon Credits</a>
 ```
 
-You can learn more [here](https://thenounproject.zendesk.com/hc/en-us/sections/200137528-Icon-Credit-Requirements).
+alternatively, you can host the html located in anywhere (e.g. libguides) and provide a link to it yourself.
+
+you can learn more about the license [here](https://thenounproject.zendesk.com/hc/en-us/sections/200137528-Icon-Credit-Requirements).
 
 ### uninstalling the icons
 
