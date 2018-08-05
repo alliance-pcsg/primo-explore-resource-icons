@@ -1,5 +1,5 @@
 {
-  "name": "primo-explore-resource-icons",
+  "name": "@orbis-cascade/primo-explore-resource-icons",
   "version": "1.1.0",
   "description": "adds custom resource icons from the Noun Project to primo search results.",
   "main": "index.js",
